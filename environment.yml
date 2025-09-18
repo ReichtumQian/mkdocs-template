@@ -1,0 +1,15 @@
+name: mkdocs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+
+  - pip
+  - pip:
+    - mkdocs
+    - mkdocs-material
+    - mkdocs-roamlinks-plugin
+    - mkdocs-mermaid2-plugin
+    - mkdocs-section-index
+    - mkdocstrings-python
