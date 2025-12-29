@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "Ysabeau";
-  src: url(Ysabeau-Regular.ttf);
+  font-family: "LXGWBright";
+  src: url(LXGWBright-Regular.ttf);
 }
 
 :root{
-  --md-text-font: "Ysabeau"
+  --md-text-font: "LXGWBright"
 }
 
 img {
