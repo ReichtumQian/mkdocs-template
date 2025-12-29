@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "LXGWBright";
+  src: url(LXGWBright-Regular.ttf);
+}
+
+:root{
+  --md-text-font: "LXGWBright"
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
